@@ -1,4 +1,4 @@
-package nl.saxion.concurrency;
+package nl.saxion.act.concurrency.opdracht1;
 
 import java.util.Random;
 
